@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "userId": "1",
+        "username": "SpongeBob",
+        "content": "I had an incredible day today",
+        "userImage": "https://www.spongebobshop.com/cdn/shop/products/SB-Standees-Spong-3_1200x.jpg?v=1603744568",
+        "contentImage": "https://t3.ftcdn.net/jpg/03/82/24/44/360_F_382244401_FNIivSDbE7ojw5sT70WYVgmFsw2R7DHD.jpg",
+        "timestamp": "2024-09-25T12:34:56Z"
+    },    
+    {
+        "id": "2",
+        "userId": "1",
+        "username": "Patrick",
+        "content": "I really love to sleep under my house, I think there's no better feeling in the world",
+        "userImage": "https://todoinfantil.com/img/pelicula/Patricio%20-%20Bob%20esponja.jpg",
+        "contentImage": "https://static.wikia.nocookie.net/nickelodeon/images/c/ce/BikiniBottomStock.png/revision/latest?cb=20230420021223",
+        "timestamp": "2024-09-26T12:34:56Z"
+    },    
+    {
+        "id": "3",
+        "userId": "1",
+        "username": "Calamardo",
+        "content": "I had an incredible day today",
+        "userImage": "https://pm1.aminoapps.com/6538/a613c79851e48320844c58e1ec035ebec7997759_00.jpg",
+        "contentImage": "https://www.wikihow.com/images_en/thumb/a/a7/Draw-the-Krusty-Krab-Step-34.jpg/v4-1200px-Draw-the-Krusty-Krab-Step-34.jpg",
+        "timestamp": "2024-09-27T12:34:56Z"
+    }, 
+    {
+        "id": "4",
+        "userId": "1",
+        "username": "SpongeBob",
+        "content": "I went out today",
+        "userImage": "https://www.spongebobshop.com/cdn/shop/products/SB-Standees-Spong-3_1200x.jpg?v=1603744568",
+        "contentImage": "https://static.wikia.nocookie.net/nickelodeon/images/c/ce/BikiniBottomStock.png/revision/latest?cb=20230420021223",
+        "timestamp": "2024-09-22T12:34:56Z"
+    }, 
+    {
+        "id": "3",
+        "userId": "2",
+        "username": "Patrick",
+        "content": "Amazing food",
+        "userImage": "https://todoinfantil.com/img/pelicula/Patricio%20-%20Bob%20esponja.jpg",
+        "contentImage": "https://www.wikihow.com/images_en/thumb/a/a7/Draw-the-Krusty-Krab-Step-34.jpg/v4-1200px-Draw-the-Krusty-Krab-Step-34.jpg",
+        "timestamp": "2024-09-27T12:34:56Z"
+    },
+    {
+        "id": "6",
+        "userId": "1",
+        "username": "SpongeBob",
+        "content": "I had an incredible day today",
+        "userImage": "https://www.spongebobshop.com/cdn/shop/products/SB-Standees-Spong-3_1200x.jpg?v=1603744568",
+        "contentImage": "https://t3.ftcdn.net/jpg/03/82/24/44/360_F_382244401_FNIivSDbE7ojw5sT70WYVgmFsw2R7DHD.jpg",
+        "timestamp": "2024-09-25T12:34:56Z"
+    },    
+    {
+        "id": "7",
+        "userId": "1",
+        "username": "Patrick",
+        "content": "I really love to sleep under my house, I think there's no better feeling in the world",
+        "userImage": "https://todoinfantil.com/img/pelicula/Patricio%20-%20Bob%20esponja.jpg",
+        "contentImage": "https://static.wikia.nocookie.net/nickelodeon/images/c/ce/BikiniBottomStock.png/revision/latest?cb=20230420021223",
+        "timestamp": "2024-09-26T12:34:56Z"
+    },    
+    {
+        "id": "8",
+        "userId": "1",
+        "username": "Calamardo",
+        "content": "I had an incredible day today",
+        "userImage": "https://pm1.aminoapps.com/6538/a613c79851e48320844c58e1ec035ebec7997759_00.jpg",
+        "contentImage": "https://www.wikihow.com/images_en/thumb/a/a7/Draw-the-Krusty-Krab-Step-34.jpg/v4-1200px-Draw-the-Krusty-Krab-Step-34.jpg",
+        "timestamp": "2023-09-27T12:34:56Z"
+    }, 
+    {
+        "id": "9",
+        "userId": "1",
+        "username": "SpongeBob",
+        "content": "I went out today",
+        "userImage": "https://www.spongebobshop.com/cdn/shop/products/SB-Standees-Spong-3_1200x.jpg?v=1603744568",
+        "contentImage": "https://static.wikia.nocookie.net/nickelodeon/images/c/ce/BikiniBottomStock.png/revision/latest?cb=20230420021223",
+        "timestamp": "2023-09-22T12:34:56Z"
+    }, 
+    {
+        "id": "10",
+        "userId": "2",
+        "username": "Patrick",
+        "content": "Amazing Music",
+        "userImage": "https://todoinfantil.com/img/pelicula/Patricio%20-%20Bob%20esponja.jpg",
+        "contentImage": "https://www.wikihow.com/images_en/thumb/a/a7/Draw-the-Krusty-Krab-Step-34.jpg/v4-1200px-Draw-the-Krusty-Krab-Step-34.jpg",
+        "timestamp": "2023-09-27T12:34:56Z"
+    }
+]
